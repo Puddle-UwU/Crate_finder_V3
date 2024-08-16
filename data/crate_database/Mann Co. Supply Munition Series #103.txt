@@ -1,0 +1,15 @@
+The Iron Bomber
+The Panic Attack
+The Back Scatter
+The Quickiebomb Launcher
+The Ambassador
+The Reserve Shooter
+The Degreaser
+The Powerjack
+Natascha
+The Sandvich
+Strange Part: Damage Dealt
+Strange Part: Allied Healing Done
+Strange Part: Critical Kills
+Strange Part: Pyros Killed
+Strange Part: Heavies Killed
